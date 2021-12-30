@@ -7,5 +7,5 @@
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=vu4ll&show_icons=true&locale=en&layout=compact)
 
 ## Contact
-<h3 align="center">All links are here https://vu4ll.cf</h3>
+<h3 align="center">All links are here https://www.vu4ll.ml/</h3>
 <div align="center"><img src="https://discord.c99.nl/widget/theme-3/269480080823025664.png"></div>
