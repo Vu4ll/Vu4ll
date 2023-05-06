@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vu4ll</h1>
 <h3 align="center">A JavaScript developer</h3>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F0L1PKV)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=vu4ll&show_icons=true&theme=highcontrast&locale=en&count_private=true)
 
 
