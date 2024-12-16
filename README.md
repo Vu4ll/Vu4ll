@@ -11,5 +11,9 @@
 </div>
 
 ## Contact
-<h3 align="center">All links are [here](https://vu4ll.xyz)</h3>
-<div align="center"><img src="https://discord.c99.nl/widget/theme-3/269480080823025664.png"></div>
+<div align="center">
+
+### All links are [here](https://vu4ll.xyz)
+<img src="https://discord.c99.nl/widget/theme-3/269480080823025664.png">
+
+</div>
