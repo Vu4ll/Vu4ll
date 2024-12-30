@@ -13,7 +13,7 @@
 ## Contact
 <div align="center">
 
-### All links are [here](https://vu4ll.xyz)
+### All links are [here](https://vu4ll.com.tr)
 <img src="https://discord.c99.nl/widget/theme-3/269480080823025664.png">
 
 </div>
