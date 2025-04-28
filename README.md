@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Vu4ll</h1>
-<h3 align="center">A backend developer from Türkiye</h3>
+# Hi 👋, I'm Vu4ll
+### A backend developer from Türkiye.
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=vu4ll&label=Profile%20views&color=0e75b6&style=flat" alt="vu4ll" /> 
 
+## Support me!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vu4ll)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=vu4ll&show_icons=true&locale=en&layout=compact)
+## My Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vu4ll&show_icons=true&locale=en&layout=compact" alt="vu4ll" /></p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vu4ll&show_icons=true&theme=highcontrast&locale=en&count_private=true)
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vu4ll&show_icons=true&theme=highcontrast&locale=en&count_private=true" alt="vu4ll" /></p>
 
 ## Contact
-<div align="center">
 
 ### [Here](https://vu4ll.com.tr) are all the links where you can reach me.
 <img src="https://discord.c99.nl/widget/theme-3/269480080823025664.png">
-
-</div>
