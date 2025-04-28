@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vu4ll</h1>
-<h3 align="center">A JavaScript developer</h3>
+<h3 align="center">A backend developer from Türkiye</h3>
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 ## Contact
 <div align="center">
 
-### All links are [here](https://vu4ll.com.tr)
+### [Here](https://vu4ll.com.tr) are all the links where you can reach me.
 <img src="https://discord.c99.nl/widget/theme-3/269480080823025664.png">
 
 </div>
