@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=vu4ll&label=Profile%20views&color=0e75b6&style=flat" alt="vu4ll" /> 
 
 ## Support me!
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vu4ll)
+<a href='https://ko-fi.com/F1F0L1PKV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## My Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vu4ll&show_icons=true&locale=en&layout=compact" alt="vu4ll" /></p>
