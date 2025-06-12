@@ -3,6 +3,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=vu4ll&label=Profile%20views&color=0e75b6&style=flat" alt="vu4ll" /> 
 
+I'm a backend developer constantly trying to improve myself in the world of software. I enjoy working with Express.js, EJS, and Discord.js and develop projects in these areas.
+
 ## Support me!
 <a href='https://ko-fi.com/F1F0L1PKV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
