@@ -17,5 +17,6 @@ I'm a backend developer constantly trying to improve myself in the world of soft
 
 <div align="center">
 <h3><a href="https://vu4ll.com.tr" target="_blank">Here</a> are all the links where you can reach me.</h3>
+<h4>Or you can send an email to contact with me <a href="mailto:contact@vu4ll.com.tr" target="_blank">contact@vu4ll.com.tr</a></h4>
 </div>
 <p align="center"><img src="https://discord.c99.nl/widget/theme-3/269480080823025664.png"></p>
