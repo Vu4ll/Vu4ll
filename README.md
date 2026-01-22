@@ -1,5 +1,5 @@
 # Hi 👋, I'm Vu4ll
-### A backend developer from Türkiye.
+### A backend developer from Netherlands.
 
 <img src="https://komarev.com/ghpvc/?username=vu4ll&label=Profile%20views&color=0e75b6&style=flat" alt="vu4ll" />
 
